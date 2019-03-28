@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiquiegiv.kyma-project.io/sitemap.xml
